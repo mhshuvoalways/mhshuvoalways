@@ -10,6 +10,7 @@
 - BEM (CSS architecture)
 - SASS (CSS Preprocessor)
 - JS
+- DOM
 - React
 - Redux (For state management)
 - Easy-Peasy (For state management)
@@ -18,11 +19,10 @@
 - Webpack
 
 <br>
-<br>
 
-- 🔭 I’m currently working on *MERN eCommerce porject*
-- 🌱 I’m currently learning *Easy-Peasy*
-- 💬 Ask me about **React**
+- 🌱 Learing *Frontend* more deeply...
+- 🌱 Currently learning *Easy-Peasy*
+- 🔭 Currently working on *MERN eCommerce porject*
 - 📫 Contact with me **mhshuvoit@gmail.com**
 
 <br>
