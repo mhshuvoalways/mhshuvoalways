@@ -9,7 +9,7 @@
 - CSS
 - BEM (CSS architecture)
 - SASS (CSS Preprocessor)
-- JS
+- JavaScript (My beloved😍)
 - DOM
 - React
 - Redux (For state management)
