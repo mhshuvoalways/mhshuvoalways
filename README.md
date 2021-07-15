@@ -8,15 +8,23 @@
 - <h3 align="left">My existing skills:</h3>
 - HTML
 - CSS
-- BEM (CSS architecture)
-- SASS (CSS Preprocessor)
-- JavaScript (My beloved😍)
-- DOM
-- React
-- Redux (For state management)
-- Easy-Peasy (For state management)
-- Node
-- ExpressJS
+- BEM
+- SASS
+- Bootstrap
+- React-Bootstrap
+- ReactStrap
+- Material UI
+- Ant design
+- Javascript
+- Reactjs
+- React hook
+- React Context Api
+- Redux
+- Easy-peasy
+- Nodejs
+- Expressjs
+- MongoDB
+- UML diagram
 - Webpack
 
 <br>
