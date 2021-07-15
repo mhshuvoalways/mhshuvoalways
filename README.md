@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MH Shuvo</h1>
-<h3 align="center">A professional frontend developer</h3>
+<h3 align="center">A professional full stack developer</h3>
 <p> All my github projects are focused on functionality only🛠🔧. There was not much focus on design but that doesn't mean I can't design😀</p>
 <hr>
 <br>
