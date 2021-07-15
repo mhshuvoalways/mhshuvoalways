@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MH Shuvo</h1>
+<h1 align="center">Hi 👋, I'm Mahamudul Hasan Shuvo</h1>
 <h3 align="center">A professional full stack developer</h3>
 <p> All my github projects are focused on functionality only🛠🔧. There was not much focus on design but that doesn't mean I can't design😀</p>
 <hr>
@@ -35,7 +35,6 @@
 - 📫 Contact with me **mhshuvoit@gmail.com**
 
 <br>
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,7 +42,6 @@
 <a href="https://fb.com/mhshuvoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhshuvoit" height="30" width="40" /></a>
 </p>
 
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
