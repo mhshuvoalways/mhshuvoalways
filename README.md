@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahamudul Hasan Shuvo</h1>
 <h3 align="center">A professional full stack developer</h3>
-<p> All my github projects are focused on functionality only🛠🔧. There was not much focus on design but that doesn't mean I can't design😀</p>
+<p> All my github projects are focused on functionality mainly🛠🔧</p>
 <hr>
 <br>
 <br>
@@ -14,7 +14,6 @@
 - React-Bootstrap
 - ReactStrap
 - Material UI
-- Ant design
 - Javascript
 - Reactjs
 - React hook
