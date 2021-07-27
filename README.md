@@ -22,6 +22,8 @@
 - Easy-peasy
 - Nodejs
 - Expressjs
+- Git
+- GitHub
 - MongoDB
 - UML diagram
 - Webpack
