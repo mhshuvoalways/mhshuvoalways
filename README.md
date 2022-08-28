@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahamudul Hasan Shuvo</h1>
-<h3 align="center">A professional full stack developer</h3>
+<h3 align="center">A professional full stack web developer</h3>
 <p> All my github projects are focused on functionality mainly🛠🔧</p>
 <hr>
 <br>
@@ -13,11 +13,9 @@
 - Bootstrap
 - React-Bootstrap
 - ReactStrap
-- Material UI
+- TailwindCSS
 - Javascript
 - Reactjs
-- React hook
-- React Context Api
 - Redux
 - Easy-peasy
 - Nodejs
@@ -33,7 +31,7 @@
 - 🌱 Learing *Frontend* more deeply...
 - 🌱 Currently learning *Easy-Peasy*
 - 🔭 Currently working on *MERN eCommerce porject*
-- 📫 Contact with me **mhshuvoit@gmail.com**
+- 📫 Contact with me **mlhnshuvo@gmail.com**
 
 <br>
 
