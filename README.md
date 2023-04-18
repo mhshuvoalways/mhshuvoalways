@@ -1,47 +1,128 @@
-<h1 align="center">Hi 👋, I'm Mahamudul Hasan Shuvo</h1>
-<h3 align="center">A professional full stack web developer</h3>
-<p> All my github projects are focused on functionality mainly🛠🔧</p>
-<hr>
-<br>
-<br>
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-- <h3 align="left">My existing skills:</h3>
-- HTML
-- CSS
-- BEM
-- SASS
-- Bootstrap
-- React-Bootstrap
-- ReactStrap
-- TailwindCSS
-- Javascript
-- Reactjs
-- Redux
-- Easy-peasy
-- Nodejs
-- Expressjs
-- Git
-- GitHub
-- MongoDB
-- UML diagram
-- Webpack
+<h1 align="center"> Hello, I'm MH Shuvo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
 
-<br>
+<h3 align="center">I’m a professional and passionate Front-End Developer focused on efficiency and constant learning ❤</h3>
+<br />
 
-- 🌱 Learing *Frontend* more deeply...
-- 🌱 Currently learning *Easy-Peasy*
-- 🔭 Currently working on *MERN eCommerce porject*
-- 📫 Contact with me **mlhnshuvo@gmail.com**
+<div align="left">
+I’m a professional and passionate Front-End Developer focused on efficiency and constant learning. Courteous and enthusiastic, I am interested in Full Stack Web, Mobile applications and everything in its orbit. I am fascinated by web and mobile programming, development and building. I am gaining knowledge and ideas working in this area. I am keen to gain more experience in the field. My goal is to build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
 
-<br>
+Therefore, I’m looking for a company willing to offer me a placement among its developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to the team. I am, therefore currently looking for a job as Front-End or Full-Stack developer. I always want to learn more, do more, and be more. I’m also a firm believer that we should never settle. I’m hard-working, super curious, committed, passionate, self-taught, enthusiastic, and also a fast learner!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mhshuvoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhshuvoit" height="30" width="40" /></a>
-<a href="https://fb.com/mhshuvoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhshuvoit" height="30" width="40" /></a>
-</p>
+When I’m not in front of a computer screen, I’m probably watching movies, reading books, or crossing off another item on my bucket list.
 
-<br>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> <a href="https://easy-peasy.vercel.app" target="_blank"> <img src="https://easy-peasy.vercel.app/assets/img/logo-small.fa11c63f.png" alt="webpack" width="40" height="40"/> </a> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+![](https://visitor-badge.glitch.me/badge?page_id=mlhnshuvo.mlhnshuvo)
+![age](https://img.shields.io/badge/age-28-blueviolet)
+![focus](https://img.shields.io/badge/focus-FullStack-critical)
+![projects](https://img.shields.io/badge/projects-27-important)
+
+<br />
+
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
+- 🌱 I’m currently learning Python and React-Native.
+- 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
+- 🥅 2023 Goals: Master Python and contribute to Open Source projects.
+- ⚡ Fun fact: I really love to travel and explore new things in my free time.
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/11ebwfwlPiUD01LPGMEkWl60qS3uS6_9v/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
+</div>
+
+<br />
+
+## 👨‍💻 Languages and Tools
+
+### EXPERTISE
+
+<div align="left">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjs.7771a0ed.png&w=3840&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactjs.e7b27106.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnextjs.6e392717.png&w=828&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fredux.c42be609.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feasypeasy.daacb02a.png&w=256&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.76e3c066.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcss.0b25d4f1.png&w=1080&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftailwindcss.375d821c.png&w=384&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbootstrap.f5731ebd.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsass.7494b621.png&w=1080&q=75" height="40" width="40"> 
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexpressjs.465912fa.png&w=828&q=75" height="40" width="40">
+</div>
+
+### COMFORTABLE
+
+<div align="left">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnodejs.26c64468.png&w=3840&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongodb.51cfbad4.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongoose.17bb1d77.png&w=256&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactnative.a746265b.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframermotion.f81c69b1.png&w=384&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserver.9f9ac5f7.png&w=640&q=75" height="40" width="40">
+</div>
+
+### FAMILIAR
+
+<div align="left">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftypescript.683d8566.png&w=828&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmaterialui.98ead70e.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstyledcomponent.f85bdbc0.png&w=256&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwebpack.564cd908.png&w=1200&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwordpress.f07108b8.png&w=640&q=75" height="40" width="40">
+</div>
+
+### TOOLS
+
+<div align="left">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvscode.6e1e451c.png&w=1080&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgit.37625c0a.png&w=384&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub.ebcf7a0b.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcromedev.5e3793dd.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpostman.ff1cc667.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnpm.36ba0db4.png&w=3840&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyarn.ae159ba9.png&w=256&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffigma.7866ac50.png&w=3840&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fxd.43a7538b.png&w=1080&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fslack.218dd730.png&w=828&q=75" height="40" width="40">
+</div>
+<br />
+
+## 🎀 Favourite Stack
+
+<div align="left">
+<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</div>
+  
+<br />
+
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=mlhnshuvo&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=mlhnshuvo&theme=radical" width="45%" >
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mlhnshuvo&theme=onestar&no-frame=true" alt="mlhnshuvo Profile Trophies" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+
+## Show some ❤️ by starring ⭐ some of the repositories!
+
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://mlhnshuvo.vercel.app/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=mlhnshuvo@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mlhnshuvo/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mlhnshuvo/)
+</div>
+
+![](https://i.imgur.com/IuzIC2j.png)
