@@ -53,8 +53,11 @@ When I’m not in front of a computer screen, I’m probably watching movies, re
 
 <div align="left">
 <img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnodejs.26c64468.png&w=3840&q=75" height="40" width="40">
-<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongodb.51cfbad4.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprisma.dc00bade.png&w=256&q=75" height="40" width="40">
 <img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongoose.17bb1d77.png&w=256&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpostgresql.b500e447.png&w=2048&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongodb.51cfbad4.png&w=640&q=75" height="40" width="40">
+<img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmysql.54005a8c.png&w=640&q=75" height="40" width="40">
 <img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactnative.a746265b.png&w=640&q=75" height="40" width="40">
 <img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframermotion.f81c69b1.png&w=384&q=75" height="40" width="40">
 <img src="https://mlhnshuvo.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserver.9f9ac5f7.png&w=640&q=75" height="40" width="40">
