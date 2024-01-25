@@ -69,7 +69,6 @@ When I’m not in front of a computer screen, I’m probably watching movies, re
 <img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftypescript.683d8566.png&w=828&q=75" height="40" width="40">
 <img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmaterialui.98ead70e.png&w=640&q=75" height="40" width="40">
 <img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstyledcomponent.f85bdbc0.png&w=256&q=75" height="40" width="40">
-<img src="https://www.mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fflutter.b7dab39a.png&w=640&q=75" height="40" width="40">
 <img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwebpack.564cd908.png&w=1200&q=75" height="40" width="40">
 <img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwordpress.f07108b8.png&w=640&q=75" height="40" width="40">
 </div>
