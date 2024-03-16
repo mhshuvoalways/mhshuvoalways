@@ -6,12 +6,14 @@
 <br />
 
 <div align="left">
-I’m a professional and passionate Front-End focused full stack developer and constant learner. Courteous and enthusiastic, I am interested in Full Stack Web, Mobile applications and everything in its orbit. I am fascinated by web and mobile programming, development and building. I am gaining knowledge and ideas working in this area. I am keen to gain more experience in the field. My goal is to build applications that are scalable and efficient under the hood while providing engaging, pixel-perfect user experiences.
-
-Therefore, I’m looking for a company willing to offer me a placement among its developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to the team. I am, therefore currently looking for a job as Front-End or Full-Stack developer. I always want to learn more, do more, and be more. I’m also a firm believer that we should never settle. I’m hard-working, super curious, committed, passionate, self-taught, enthusiastic, and also a fast learner!
-
-When I’m not in front of a computer screen, I’m probably watching movies, reading books, or crossing off another item on my bucket list.
-
+👋 Hi there! I'm MH Shuvo, a passionate full stack developer with expertise in JavaScript, ReactJS, Next.js, Node.js, Express.js, and MongoDB. With a strong foundation in these technologies, I excel in crafting dynamic and responsive web applications.
+<br />
+🚀 I thrive on challenges and enjoy bringing creative solutions to the table. Whether it's building user-friendly interfaces with ReactJS or optimizing backend performance with Node.js and Express.js, I'm always eager to dive in and deliver top-notch results.
+<br />
+💼 Currently freelancing and seeking remote opportunities, I'm driven by a desire to continue learning and growing in my craft. My goal is to evolve into a senior developer, contributing my skills and expertise to impactful projects while embracing new technologies along the way.
+<br />
+🎯 Let's connect and explore how I can bring value to your team with my passion for development and dedication to excellence.
+<br />
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=mlhnshuvo.mlhnshuvo)
