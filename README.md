@@ -41,7 +41,7 @@ Technology Stack:
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2023 Goals: Master Python and contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/11ebwfwlPiUD01LPGMEkWl60qS3uS6_9v/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://www.canva.com/design/DAGHymrfZ9g/i0XPPkq_hxhPIj0cmjVedQ/view?utm_content=DAGHymrfZ9g&utm_campaign=designshare&utm_medium=link&utm_source=editor) for more details about me. I'm open to feedback and suggestions!
 </div>
 
 <br />
