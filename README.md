@@ -6,13 +6,26 @@
 <br />
 
 <div align="left">
-👋 Hi there! I'm MH Shuvo, a passionate full stack developer with expertise in JavaScript, ReactJS, Next.js, Node.js, Express.js, and MongoDB. With a strong foundation in these technologies, I excel in crafting dynamic and responsive web applications.
+Highly motivated frontend focused full stack web developer with a strong foundation in JavaScript, ReactJS, NextJS, NodeJS, ExpressJS, MongoDB, PostgreSQL and more.
 <br />
-🚀 I thrive on challenges and enjoy bringing creative solutions to the table. Whether it's building user-friendly interfaces with ReactJS or optimizing backend performance with Node.js and Express.js, I'm always eager to dive in and deliver top-notch results.
 <br />
-💼 Currently freelancing and seeking remote opportunities, I'm driven by a desire to continue learning and growing in my craft. My goal is to evolve into a senior developer, contributing my skills and expertise to impactful projects while embracing new technologies along the way.
+🏆 Achievement: Top Rated Freelancer on Fiverr 👑
+Achieved this status by completing over 120+ orders for 50+ unique clients, all earning 5-star reviews.
 <br />
-🎯 Let's connect and explore how I can bring value to your team with my passion for development and dedication to excellence.
+<br />
+Technology Stack:
+  <br />
+✅ HTML, CSS, TailwindCSS, Material UI, BEM, SASS, Framer Motion
+  <br />
+✅ JavaScript, TypeScript, ReactJS, NextJS, Redux
+  <br />
+✅ NodeJS, ExpressJS
+  <br />
+✅ MongoDB, PostgreSQL
+  <br />
+✅ Git, GitHub
+  <br />
+✅ AWS, Vercel
 <br />
 <br />
 
@@ -31,64 +44,6 @@
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/11ebwfwlPiUD01LPGMEkWl60qS3uS6_9v/view?usp=share_link) for more details about me. I'm open to feedback and suggestions!
 </div>
 
-<br />
-
-## 👨‍💻 Languages and Tools
-
-### EXPERTISE
-
-<div align="left">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjs.7771a0ed.png&w=3840&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactjs.e7b27106.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnextjs.6e392717.png&w=828&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fredux.c42be609.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feasypeasy.daacb02a.png&w=256&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhtml.76e3c066.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcss.0b25d4f1.png&w=1080&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftailwindcss.375d821c.png&w=384&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fbootstrap.f5731ebd.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsass.7494b621.png&w=1080&q=75" height="40" width="40"> 
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fexpressjs.465912fa.png&w=828&q=75" height="40" width="40">
-</div>
-
-### COMFORTABLE
-
-<div align="left">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnodejs.26c64468.png&w=3840&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fprisma.dc00bade.png&w=256&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongoose.17bb1d77.png&w=256&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpostgresql.b500e447.png&w=2048&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmongodb.51cfbad4.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmysql.54005a8c.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freactnative.a746265b.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fframermotion.f81c69b1.png&w=384&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fserver.9f9ac5f7.png&w=640&q=75" height="40" width="40">
-</div>
-
-### FAMILIAR
-
-<div align="left">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ftypescript.683d8566.png&w=828&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmaterialui.98ead70e.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fstyledcomponent.f85bdbc0.png&w=256&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwebpack.564cd908.png&w=1200&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwordpress.f07108b8.png&w=640&q=75" height="40" width="40">
-</div>
-
-### TOOLS
-
-<div align="left">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvscode.6e1e451c.png&w=1080&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgit.37625c0a.png&w=384&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fgithub.ebcf7a0b.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcromedev.5e3793dd.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpostman.ff1cc667.png&w=640&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fnpm.36ba0db4.png&w=3840&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fyarn.ae159ba9.png&w=256&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Ffigma.7866ac50.png&w=3840&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fxd.43a7538b.png&w=1080&q=75" height="40" width="40">
-<img src="https://mhshuvoalways.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fslack.218dd730.png&w=828&q=75" height="40" width="40">
-</div>
 <br />
 
 ## 🎀 Favourite Stack
@@ -124,7 +79,7 @@
 
 ## Show some ❤️ by starring ⭐ some of the repositories!
 
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://mhshuvoalways.xyz/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://mhshuvo.com/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=mhshuvoalways@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mhshuvoalways/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/mhshuvoalways/)
